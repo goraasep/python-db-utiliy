@@ -76,8 +76,8 @@ class MySql:
 
         def __init__(self,dbname):
                 self.mysql_server = 'localhost'
-                self.mysql_username = 'hariff'
-                self.mysql_passwd = 'hariff123'
+                self.mysql_username = 'demo'
+                self.mysql_passwd = 'demo123'
                 self.mysql_db = dbname
                 # self.db, 
                 # self.cursor
